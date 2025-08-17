@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for My TikTok Data Exporter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .last-revised {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for My TikTok Data Exporter</h1>
+    <p class="last-revised">Last revised: May 15, 2024</p>
+
+    <p>This Privacy Policy outlines the practices of <strong>My TikTok Data Exporter</strong> regarding the collection, use, and handling of personal information. Our goal is to be a trustworthy steward of any personal information involved in the operation of this application.</p>
+
+    <p>The collection and use of personal information are essential for the functionality of My TikTok Data Exporter. While performing this critical work, we are committed to upholding privacy protections. This policy is based on widely recognized fair information practice principles and aims to reflect our aspirational values in handling personal information.</p>
+
+    <p>Please note that this Privacy Policy is intended to provide transparency about our data practices and does not create any contractual or other legal obligation on our part, nor any contractual or other legal right or expectation for any individual person.</p>
+
+    <h2>What is Personal Information?</h2>
+    <p>Personal information is any data that relates to an identifiable individual person, including their character traits, history, and activities. This not only includes direct identifiers (like a name) but also indirect information (such as purchasing history, Internet activity, or, in some cases, information about personal activities). For this application, personal information primarily refers to your own TikTok user data that can identify you or relate to your account activities.</p>
+
+    <h2>Information We Collect</h2>
+    <p>The <strong>My TikTok Data Exporter</strong> script is designed to collect specific information directly from your TikTok account. This information is limited to:</p>
+    <ul>
+        <li><strong>Your own TikTok user data:</strong> This includes your profile information (e.g., username, bio, follower count) and metadata related to your videos (e.g., video titles, descriptions, view counts, likes, comments).</li>
+    </ul>
+    <p><strong>Important:</strong> This application is designed for personal use to export *your own* data. It does not collect data from other TikTok users.</p>
+
+    <h2>How We Use Your Information</h2>
+    <p>The information collected by <strong>My TikTok Data Exporter</strong> is used solely for the following purpose:</p>
+    <ul>
+        <li>To display your TikTok video performance and account metrics in a Google Sheet for your personal analysis and record-keeping.</li>
+    </ul>
+    <p>The data is processed locally within the script's execution environment (e.g., Google Apps Script) and then outputted directly to a Google Sheet that you control.</p>
+
+    <h2>Data Sharing with Third Parties</h2>
+    <p>We do not share your data with any third parties. All data processing occurs within the confines of your script's execution environment and your Google Sheet, which you control.</p>
+
+    <h2>Cookies and Tracking Technologies</h2>
+    <p>As a purely server-side script (like Google Apps Script), <strong>My TikTok Data Exporter</strong> does not use cookies, web beacons, or other tracking technologies to collect information about your browsing activities or interactions with websites.</p>
+
+    <h2>Integration with TikTok</h2>
+    <p>This application integrates directly with the TikTok platform to retrieve your data. Your use of TikTok's services is subject to their own policies. We encourage you to review:</p>
+    <ul>
+        <li>TikTok's Privacy Policy: <a href="https://www.tiktok.com/legal/privacy-policy" target="_blank">https://www.tiktok.com/legal/privacy-policy</a></li>
+        <li>TikTok's Terms of Service: <a href="https://www.tiktok.com/legal/terms-of-service" target="_blank">https://www.tiktok.com/legal/terms-of-service</a></li>
+    </ul>
+
+    <h2>Our Privacy Principles</h2>
+    <p>While <strong>My TikTok Data Exporter</strong> operates on a limited scale for personal use, we adhere to the following core privacy principles, reflecting a commitment to responsible data handling:</p>
+
+    <h3>1. Transparency</h3>
+    <p>We strive to be open about how your information is collected and used. This policy clearly describes the type of data collected and its specific purpose.</p>
+
+    <h3>2. Minimum Necessary</h3>
+    <p>We limit the collection of personal information to the minimum that is directly relevant and necessary to accomplish the stated purpose of exporting your TikTok data to a Google Sheet.</p>
+
+    <h3>3. Responsible Use</h3>
+    <p>We use your personal information only for the purpose for which it was collected – that is, to facilitate your personal analysis of your TikTok performance. We do not use your data for any secondary, unrelated projects or purposes.</p>
+
+    <h3>4. Limited Sharing</h3>
+    <p>As stated above, we do not share your personal information with third parties. Your data remains within your control and is processed for your sole benefit.</p>
+
+    <h3>5. Choice and Control</h3>
+    <p>You maintain full choice and control over the use of your data through this application. As the user running the script, you decide when and how to initiate data collection and where the output is stored (your Google Sheet).</p>
+
+    <h3>6. Stewardship</h3>
+    <p>As the developer and provider of this script, we take responsibility for ensuring that these principles are upheld in the design and operation of <strong>My TikTok Data Exporter</strong>.</p>
+
+    <h3>7. Security Controls</h3>
+    <p>While this is a script operating in your environment, we endeavor to design it with security in mind. The primary security relies on the robustness of the platform where the script runs (e.g., Google Apps Script) and your own security practices for your Google account and TikTok account credentials.</p>
+
+    <h3>8. Retention and Deletion</h3>
+    <p>The <strong>My TikTok Data Exporter</strong> script itself does not retain your personal information long-term on its own servers beyond the immediate execution required to transfer data to your designated Google Sheet. Your data's retention and deletion are subject to your management of the Google Sheet where it is stored and your TikTok account settings.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will post any changes on this page. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting the information we process.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:</p>
+    <p>[Your Contact Email Address, e.g., support@yourdomain.com]</p>
+
+</body>
+</html>
